@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/trivia-souls/static/css/main.8e2ab950.chunk.css",
+    "main.css": "/trivia-souls/static/css/main.80d82745.chunk.css",
     "main.js": "/trivia-souls/static/js/main.ed1a72ec.chunk.js",
     "main.js.map": "/trivia-souls/static/js/main.ed1a72ec.chunk.js.map",
     "runtime-main.js": "/trivia-souls/static/js/runtime-main.b6bf1019.js",
@@ -8,13 +8,13 @@
     "static/js/2.23ccdd8d.chunk.js": "/trivia-souls/static/js/2.23ccdd8d.chunk.js",
     "static/js/2.23ccdd8d.chunk.js.map": "/trivia-souls/static/js/2.23ccdd8d.chunk.js.map",
     "index.html": "/trivia-souls/index.html",
-    "static/css/main.8e2ab950.chunk.css.map": "/trivia-souls/static/css/main.8e2ab950.chunk.css.map",
+    "static/css/main.80d82745.chunk.css.map": "/trivia-souls/static/css/main.80d82745.chunk.css.map",
     "static/js/2.23ccdd8d.chunk.js.LICENSE.txt": "/trivia-souls/static/js/2.23ccdd8d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b6bf1019.js",
     "static/js/2.23ccdd8d.chunk.js",
-    "static/css/main.8e2ab950.chunk.css",
+    "static/css/main.80d82745.chunk.css",
     "static/js/main.ed1a72ec.chunk.js"
   ]
 }
